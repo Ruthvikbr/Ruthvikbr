@@ -1,4 +1,4 @@
-### Hi, I'm Ruthvik 👋
+### Hello visitor, I'm Ruthvik 👋
 
 ## I'm an application Developer!
 
