@@ -20,3 +20,5 @@
 [twitter]: https://twitter.com/RuthvikBR2
 [linkedin]: https://www.linkedin.com/in/ruthvikbr
 
+
+![Ruthvik's github stats](https://github-readme-stats.vercel.app/api?username=Ruthvikbr&show_icons=true&theme=tokyonight)
