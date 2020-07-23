@@ -21,5 +21,8 @@
 [linkedin]: https://www.linkedin.com/in/ruthvikbr
 
 
-![Ruthvik's github stats](https://github-readme-stats.vercel.app/api?username=Ruthvikbr&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruthvikbr)](https://github.com/anuraghazra/github-readme-stats)
+
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruthvikbr&theme=tokyonight&hide=glsl,python" />
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ruthvikbr&show_icons=true&theme=tokyonight&line_height=27&v=5" alt="Ruthvik's github stats" />
