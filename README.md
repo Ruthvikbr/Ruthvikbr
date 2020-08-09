@@ -9,7 +9,7 @@
 - 💬 Talk to me about Football!
 - Also , Google certified Associate Android developer and can build apps in kotlin & java.
 - Basic understanding of Image classification and NLP using Tensorflow and Keras
-- Can build Responsive websites with HTML , CSS , JS and Bootstrap
+- Can build Responsive websites with HTML,CSS,JS,Bootstrap,PHP & MySQL
 
 
 
