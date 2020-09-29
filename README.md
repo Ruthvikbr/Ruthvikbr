@@ -1,6 +1,6 @@
-## Hello visitor, I'm Ruthvik 👋
+# Hello visitor, I'm Ruthvik 👋
 
-# I'm a Developer and a ML beginner!
+## I'm a Developer and a ML beginner!
 
 - 🌱 I’m currently working on Responsive Website building and Advanced android concepts
 - 💬 Ask me about Android/Kotlin/Tensorflow
