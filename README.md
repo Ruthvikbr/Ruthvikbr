@@ -1,12 +1,9 @@
 <img align="center" src="https://github.com/Ruthvikbr/Ruthvikbr/blob/master/Banner.jpg" width="100%">
 
-- 🌱 I’m currently working on Responsive Website building and Advanced android concepts
+- 🌱 I’m currently working on React Native
 - 💬 Ask me about Android/Kotlin/Tensorflow
-- 😄 Pronouns: he/him
-- 💬 Talk to me about Football!
-- Also , Google certified Associate Android developer and can build apps in kotlin & java.
-- Basic understanding of Image classification and NLP using Tensorflow and Keras
-- Can build Responsive websites with HTML,CSS,JS,Bootstrap,PHP & MySQL
+- [Google certified Associate Android developer](https://www.credential.net/eda20874-01c1-4172-b9df-a3bb04debd68)
+
 
 
 
