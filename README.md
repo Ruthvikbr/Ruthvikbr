@@ -1,5 +1,4 @@
-# Hello visitor, I'm Ruthvik 👋
-## Android | Web | Machine Learning
+<img align="center" src="https://github.com/Ruthvikbr/Ruthvikbr/blob/master/Banner.jpg" width="100%">
 
 - 🌱 I’m currently working on Responsive Website building and Advanced android concepts
 - 💬 Ask me about Android/Kotlin/Tensorflow
