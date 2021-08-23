@@ -4,7 +4,7 @@
 <h3 align="center">Junior Software Engineer at SpurTree Technologies</h3>
 
 
-- 🌱 I’m currently learning **Jetpack compose**
+- 🌱 I’m currently learning **Jetpack compose** and **Flutter**
 - 💬 Ask me about **Android, Kotlin, React native & Tensorflow**
 - Google certified Associate Android developer in Kotlin and Java
 - TensorFlow certified Developer
