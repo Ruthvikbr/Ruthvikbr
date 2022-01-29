@@ -9,4 +9,3 @@
 - Google certified Associate Android developer in Kotlin and Java
 - TensorFlow certified Developer
 - Can build REST APIs with Ktor and MongoDb
-- Preferred state management frameworks - BLoC , Redux
