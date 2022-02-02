@@ -9,3 +9,10 @@
 - Google certified Associate Android developer in Kotlin and Java
 - TensorFlow certified Developer
 - Can build REST APIs with Ktor and MongoDb
+
+<a href="https://www.linkedin.com/in/ruthvikbr/">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style=“margin-bottom: 5px;” />
+</a>
+<a href="https://ruthvikbr.netlify.app/">
+<img src=https://img.shields.io/badge/-Portfolio-red?&style=for-the-badge&logo=Netlify alt=linkedin style=“margin-bottom: 5px;” />
+</a>
