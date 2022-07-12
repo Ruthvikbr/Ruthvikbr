@@ -1,7 +1,7 @@
 <img align="center" src="https://github.com/Ruthvikbr/Ruthvikbr/blob/master/Banner.png" width="100%">
 
 <h1 align="center">Hi 👋, I'm Ruthvik B.R</h1>
-<h3 align="center">Software Engineer at SpurTree Technologies</h3>
+<h3 align="center">Associate Software Engineer - Android at Mutual Mobile</h3>
 
 
 - 🌱 I’m currently learning **Jetpack compose** and **Flutter 2.0**
