@@ -1,3 +1,5 @@
+<img src= "https://user-images.githubusercontent.com/37804253/210038161-a0768409-8e4d-41c7-99e8-0fc45cfddf8e.png" />
+
 <h1 align="center">Hi 👋, I'm Ruthvik B.R</h1>
 <h3 align="center">Associate Software Engineer - Android at Mutual Mobile</h3>
 
