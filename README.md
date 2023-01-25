@@ -4,7 +4,7 @@
 <h3 align="center">Associate Software Engineer - Android at <a href="https://mutualmobile.com/">Mutual Mobile</a></h3>
 
 
-- 🌱 I’m currently learning **<a href="https://developer.android.com/jetpack/compose">Jetpack compose</a> & <a href="https://kotlinlang.org/lp/mobile/">KMM</a>** 
+- I’m currently learning **<a href="https://developer.android.com/jetpack/compose">Jetpack compose</a> & <a href="https://kotlinlang.org/lp/mobile/">KMM</a>** 
 - Mobile application development with Android, React native and Flutter.
 - TensorFlow certified Developer
 - Backend development with Ktor, MongoDb, Firebase
