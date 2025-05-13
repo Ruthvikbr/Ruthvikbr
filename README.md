@@ -4,7 +4,7 @@
 <h3 align="center">M.S Software Engineering at <a href="https://www.northeastern.edu/">Northeastern University</a></h3>
 
 
-- I’m currently learning <a href="https://kotlinlang.org/lp/mobile/">KMP</a>** 
+- I’m currently learning <a href="https://kotlinlang.org/lp/mobile/">KMP</a>
 - Mobile application development with Android, React native, Flutter, and iOS.
 
 <a href="https://www.linkedin.com/in/ruthvikbr/">
