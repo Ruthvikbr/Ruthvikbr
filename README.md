@@ -23,5 +23,5 @@ I'm currently ramping up on **SwiftUI** and **Kotlin Multiplatform**, expanding 
 
 ## 🌐 Social
 - [LinkedIn](https://linkedin.com/in/ruthvikbr)
-- [Medium](https://medium.com/@Ruthvikbr2)
+- [Medium](https://medium.com/@Ruthvik_B.R)
 - [Portfolio](https://ruthvikbr.netlify.app/)
